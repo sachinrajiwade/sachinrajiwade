@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Sachin Rajiwade 👋
 
+🔭 I’m a frontend developer with focus on web fundamentals.
+   I was wored at AppBell Technologies to deliver the quality products.
+🌱 I’m passionate Javascript developer and currently all into ReactJS.
+📫 The Best way to reach me over is Linkedln. You can also send me mail to sachinrajiwade77@gmail.com
+- 
 <!--
 **sachinrajiwade/sachinrajiwade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
